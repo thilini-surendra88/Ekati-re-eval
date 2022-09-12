@@ -1,0 +1,47 @@
+wshed,site,easting,northing,concent
+reference,Nanuq,534101,7199228,0
+reference,Counts,534314,7169852,0
+reference,Vulture,521159,7180854,0
+koala,Grizzly,521084,7177781,0
+koala,Kodiak,518316,7175537,0
+reference,Nanuq Outflow,532348,7199383,0
+reference,Counts Outflow,535488,7169709,0
+reference,Vulture-Polar,521503,7179655,0
+koala,Lower PDC,518587,7175997,0
+koala,Kodiak-Little,517943,7174808,0
+kingcujo,LdS2,541240,7164235,17
+kingcujo,LdS1,541783,7164523,17
+kingcujo,Christine-Lac du Sauvage,540025,7163840,17
+koala,Slipper,507077,7165346,23
+koala,S2,507732,7164479,11
+koala,S3,506078,7164685,4
+koala,Slipper-Lac de Gras,507643,7164878,23
+koala,S5,,,2
+koala,S6,,,2
+koala,Nema,513770,7171196,36
+koala,Nema-Martine,513689,7170393,36
+pigeon,Fay Bay,,,0
+pigeon,Upper Exeter,,,0
+pigeon,Pigeon Stream R1,,,0
+pigeon,Pigeon Stream R7,,,0
+kingcujo,Cujo,538698,7161995,44
+kingcujo,Cujo Outflow,538942,7162432,44
+koala,Moose,516644,7172813,50
+koala,Moose-Nero,517460,7172818,50
+koala,Leslie,515950,7173295,93
+koala,Leslie-Moose,516481,7172868,93
+koala,1616-30 (LLCF),514021,7173081,100
+kingcujo,1616-43 (KPSF),537567,7158990,100
+Horseshoe,Ulu,,,0
+Horseshoe,Horseshoe,,,10
+Horseshoe,HWL2,,,10
+Horseshoe,Ross,,,10
+Horseshoe,Logan,,,10
+Horseshoe,Lower Exeter,,,10
+Horseshoe,Ulu Outflow,,,0
+Horseshoe,0008-SA3 (TRSP),,,100
+Horseshoe,Horseshoe Outflow,,,10
+Horseshoe,HWL2 Outflow,,,10
+Horseshoe,Ross Outflow,,,10
+Horseshoe,Logan Outflow,,,10
+Horseshoe,Northeast,,,0
